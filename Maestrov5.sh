@@ -19,9 +19,9 @@ echo $bi"Hai "$me" $a "
 fi
 sleep 5
 echo $i"Ini adalah Username dan Password anda"
-echo $pu"Username :"$me" Maestro"
+echo  $ pu "Nama pengguna:" $ me "Maestro"
 echo $pu"Password :"$me" Tamvan"
-sleep 10
+tidur  10
 python2 Memek.py
 echo
 clear
